@@ -1,1 +1,4 @@
-Still under development da!
+Contributors-
+  Sai Harshith Moluguri
+  Parishrut Singh
+  Krrish Khindria
